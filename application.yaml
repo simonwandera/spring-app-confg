@@ -1,7 +1,7 @@
 eureka:
   instance:
     prefer-ip-address: false
-    hostname: localhost
+#     hostname: localhost
   client:
     fetch-registry: true
     register-with-eureka: true
